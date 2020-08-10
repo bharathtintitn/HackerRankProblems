@@ -1,1 +1,5 @@
 *.swp
+../.DS_Store
+':w
+'A
+.doublely-list.py.swo

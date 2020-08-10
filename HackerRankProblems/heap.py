@@ -43,9 +43,9 @@ class Heap(object):
 if __name__ == "__main__":
 
     a = [9, 8, 1, 5, 6]
-    a = [1, 2, 3,4, 5]
-    a = [2, 1]
-    a = [1]
+    #a = [1, 2, 3,4, 5]
+    #a = [2, 1]
+    #a = [1]
     h = Heap()
     for i in a:
         h.add(i)
